@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg_blanco{ background:#FFF; border-radius:10px; margin:10px 0; color:#7B6A58;}
+
+.menu_iconos{ margin:20px 0;}
+.bg_gris{ margin:20px 2%; width:96%; background:#EDEDED; border-radius:10px; }
+.contenedor_lista{ margin:20px 2%; width:96%;  border-radius:10px; }
+.alinear_centro{ text-align:center}
+.alto_lista_lista{ max-height:150px; overflow:scroll; overflow-x:hidden;}
+.alto_lista_lista li{ margin-bottom:7px;}
+
+
+
